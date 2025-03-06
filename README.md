@@ -27,11 +27,6 @@ Chatbot/
 
 ---
 
-## **🎯 Live Demo**  
-Try the chatbot online **[here](#)** (if hosted).  
-
----
-
 ## **🛠️ Getting Started**  
 
 ### **Prerequisites**  
